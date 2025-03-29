@@ -12,3 +12,13 @@ h1 {
 li {
     font-size: 60px;
 }
+
+.header {
+    text-align: center;
+}
+
+.bullets {
+    font-size: 50px;
+    margin-top: 150px;
+    text-align: center;
+}
